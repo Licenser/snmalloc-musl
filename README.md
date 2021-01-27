@@ -9,3 +9,4 @@ Related issues:
 
 https://github.com/rust-lang/rust/issues/36710
 https://github.com/rust-lang/rust/issues/58163
+https://github.com/emk/rust-musl-builder/issues/69
